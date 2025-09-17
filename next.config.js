@@ -2,9 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  experimental: {
-    appDir: true,
-  },
   env: {
     POSTGRES_URL: process.env.POSTGRES_URL,
     POSTGRES_PRISMA_URL: process.env.POSTGRES_PRISMA_URL,

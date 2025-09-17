@@ -77,27 +77,28 @@ export class WeightBalanceCalculator {
     let totalArm = 0;
 
     stationData.forEach(station => {
-      const moment = station.weight * station.arm;
+      const weight = station.weight || 0;
+      const moment = weight * station.arm;
 
       // Accumulate weights and moments
       if (station.type !== 'landing_fuel') {
-        totalWeight += station.weight;
+        totalWeight += weight;
         totalMoment += moment;
       }
 
       // Calculate total ARM (sum of all arms with weight > 0)
-      if (station.weight > 0) {
+      if (weight > 0) {
         totalArm += station.arm;
       }
 
       if (station.type === 'fuel') {
-        fuelWeight += station.weight;
+        fuelWeight += weight;
         fuelMoment += moment;
       } else if (station.type === 'landing_fuel') {
-        landingFuelWeight = station.weight;
+        landingFuelWeight = weight;
         landingFuelMoment = moment;
       } else {
-        zfwWeight += station.weight;
+        zfwWeight += weight;
         zfwMoment += moment;
       }
     });
