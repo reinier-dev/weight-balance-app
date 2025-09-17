@@ -197,8 +197,7 @@ This project is licensed under the **All Rights Reserved** License - see the [LI
 
 **Reinier Moreno**
 - 🌐 Portfolio: [reinier-dev.com](https://reinier-dev.com)
-- 📧 Email: reinier.dev@example.com
-- 💼 LinkedIn: [linkedin.com/in/reinier-dev](https://linkedin.com/in/reinier-dev)
+- 📧 Email: reinier.swe@gmail.com
 - 🐙 GitHub: [@reinier-dev](https://github.com/reinier-dev)
 
 ---
