@@ -14,7 +14,7 @@
 
 ## 🚀 Project Overview
 
-**Developed by Reinier Hernández** - A comprehensive aviation weight and balance calculation system demonstrating full-stack development skills, aviation domain expertise, and modern web technologies.
+**Developed by Reinier Moreno** - A comprehensive aviation weight and balance calculation system demonstrating full-stack development skills, aviation domain expertise, and modern web technologies.
 
 ### 📋 Project Versions
 
