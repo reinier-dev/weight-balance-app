@@ -3,7 +3,7 @@
 > **🎯 Professional web application for aircraft weight and balance calculations**
 > Built with Next.js 14, TypeScript, Tailwind CSS, and Vercel Postgres
 
-**Author:** [Reinier Hernández](https://github.com/reinier-dev)
+**Author:** [Reinier Moreno](https://github.com/reinier-dev)
 **Project Type:** Full-Stack Aviation Application
 **Tech Stack:** Next.js, TypeScript, PostgreSQL, HTML5 Canvas
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Project Overview
 
-**Developed by Reinier Hernández** - A comprehensive aviation weight and balance calculation system demonstrating full-stack development skills, aviation domain expertise, and modern web technologies.
+**Developed by Reinier Moreno** - A comprehensive aviation weight and balance calculation system demonstrating full-stack development skills, aviation domain expertise, and modern web technologies.
 
 ### 📋 Project Versions
 
